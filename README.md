@@ -1,4 +1,4 @@
-# Reporting Supply Chain Sustainability Using Machine Learning 🌲
+# Machine Learning-Based Reporting for Sustainable Supply Chains 🌲
 *4 Steps to Develop ESG Reporting Focusing on Distribution Network CO2 Emissions*
 
 <p align="center">
@@ -6,14 +6,14 @@
 </p>
 <p align="center">Supply Chain Sustainability Reporting</p>
 
-The demand for transparent sustainable development from investors and customers has grown over the years.
+The demand for transparent sustainable development from investors and customers has surged in recent years.
 
-Investors now place increased emphasis on a business's sustainability when evaluating its value and resilience.
+Investors now prioritize a company's sustainability when evaluating its value and resilience.
 
-Consequently, more organizations are investing resources in building capabilities for sustainability reporting and determining optimal strategies for sustainable supply chains.
+As a result, organizations are increasingly investing resources in developing sustainability reporting capabilities and devising optimal strategies for sustainable supply chains.
 
 ### YouTube Video
-Click on the GIF below to access a short explainer video explaining the concept behind this solution
+Click on the GIF below to watch a brief explanatory video outlining the concept behind this solution.
 <div align="center">
   <a href="https://www.youtube.com/watch?v=yodNWnf7PQ0"><img src="https://github.com/samirsaci/supply-chain-sustainability/blob/main/thumbnail.webp" alt="Explainer Video Link"></a>
 </div>
@@ -22,7 +22,7 @@ Click on the GIF below to access a short explainer video explaining the concept 
 In this [article](https://towardsdatascience.com/supply-chain-sustainability-reporting-with-python-161c1f63f267), we introduce a simple methodology for **reporting CO2 emissions from your Distribution Network** using **Python and PowerBI**.
 
 ## **Definition**
-Based on the GHG Protocol corporate standard (Link), greenhouse gas emissions are classified into three scopes:
+Following the GHG Protocol corporate standard (Link), greenhouse gas emissions are classified into three scopes:
 
 - Scope 1: Direct emissions released into the atmosphere due to the company’s activities (e.g., company facilities like manufacturing plants/warehouses, company vehicles).
 - Scope 2: Indirect emissions from the generation of purchased energy (e.g., purchased electricity, gas).
@@ -57,7 +57,7 @@ A more accurate approach would be to estimate CO2 emissions for each delivery, c
 <p align="center">
   <img align="center" src="images/data collection.png" width=75%>
 </p>
-<p align="center">Data to be Collected</p>
+<p align="center">Data Collection</p>
 
 2. Calculate unit of measure conversions considering shipped handling units.
 
@@ -83,7 +83,7 @@ A more accurate approach would be to estimate CO2 emissions for each delivery, c
 
 _Visual Insights_
 
-Observe the locations with the majority of CO2 emissions (large bubbles) with color coding by transportation mode.
+Identify locations with the majority of CO2 emissions (large bubbles), color-coded by transportation mode.
 
 ### Split by Country Destination and Item Code
 <p align="center">
@@ -93,7 +93,7 @@ Observe the locations with the majority of CO2 emissions (large bubbles) with co
 
 _Product Portfolio Insights_
 
-Identify the items with the highest environmental impact in each market.
+Discover the items with the highest environmental impact in each market.
 
 ### CO2 = f(Turnover) by City Destination
 <p align="center">
@@ -103,7 +103,7 @@ Identify the items with the highest environmental impact in each market.
 
 _Financial Insights_
 
-Assess the impact of future CO2 emission reduction efforts on profitability, particularly for customers in PEINE-WOLTORF.
+Evaluate the impact of future CO2 emission reduction efforts on profitability, particularly for customers in PEINE-WOLTORF.
 
 # Code
 This repository contains all the code used to explain the concepts presented in the article.
