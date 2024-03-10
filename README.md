@@ -32,7 +32,7 @@ This article focuses on Scope 3 calculations related to downstream transportatio
 What is the environmental impact of your distribution network?
 
 ## **Formula**
-Following the protocol of the French Environmental Agency Ademe ([Link]([https://towardsdatascience.com/supply-chain-sustainability-reporting-with-python-161c1f63f267](https://ghgprotocol.org/sites/default/files/standards_supporting/FAQ.pdf))), the formula for estimating transportation CO2 emissions is:
+Following the protocol of the French Environmental Agency Ademe, the formula for estimating transportation CO2 emissions is:
 
 <p align="center">
   <img align="center" src="images/equation.png" width=75%>
