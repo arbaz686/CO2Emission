@@ -1,4 +1,4 @@
-# Machine Learning-Based Reporting for Sustainable Supply Chains 🌲
+# Machine Learning-Based Reporting for Sustainable Supply Chains (GHG Protocol) 🌲
 *4 Steps to Develop ESG Reporting Focusing on Distribution Network CO2 Emissions*
 
 <p align="center">
