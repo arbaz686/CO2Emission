@@ -39,14 +39,6 @@ Following the protocol of the French Environmental Agency Ademe (Link), the form
 </p>
 <p align="center">Formula using Emission Factor</p>
 
-<p align="center">
-  where,
-  E_CO2: emissions in kilograms of CO2 equivalent (kgCO2eq)
-  W_goods: weight of the goods (ton)
-  D: distance from your warehouse to the final destination (km)
-  F_mode: emissions factor for each transportation mode (kgCO2eq/t.km)
-</p>
-
 This formula provides a gross estimation of CO2 emissions without requiring granular transportation data.
 A more accurate approach would be to estimate CO2 emissions for each delivery, considering the vehicle model (e.g., truck, container carrier, plane, or train) and filling rate.
 
@@ -106,4 +98,4 @@ _Financial Insights_
 Evaluate the impact of future CO2 emission reduction efforts on profitability, particularly for customers in PEINE-WOLTORF.
 
 # Code
-This repository contains all the code used to explain the concepts presented in the article.
+This repository contains all the code and data used to explain the concepts presented in the article.
